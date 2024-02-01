@@ -19,7 +19,7 @@ Wanna know more about the things I did? Check out my pinned repositories and do 
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4779d7f93be120b9d22bd6896fe444a492015a55/icons/c.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src=" https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/svg/374093/sql" />
