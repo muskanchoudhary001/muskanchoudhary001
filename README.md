@@ -43,7 +43,7 @@ Wanna know more about the things I did? Check out my pinned repositories and do 
 <a style="padding-right:10px;" href=" https://twitter.com/BhalothiaMuskan" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width=35px height=35px></a>
 <a style="padding-right:10px;" href="https://www.linkedin.com/in/muskan-choudhary-789759175/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=35px height=35px></a>
 <a href="https://www.codechef.com/users/muskan003" target="_blank"><img src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="iumoinfinuim" width=35px height=35px ></a>
-<a href="https://www.hackerrank.com/profile/cmuskan3840" target="_blank"><img src="https://www.svgrepo.com/svg/330599/hackerrank" width=35px height=35px></a>
+<a href="https://www.hackerrank.com/profile/cmuskan3840" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width=35px height=35px></a>
 
 Feel free to contact me, at [cmuskan3840@gmail.com](mailto:cmuskan3840@gmail.com@gmail.com) to discuss anything :)
 
