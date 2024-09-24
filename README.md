@@ -45,6 +45,8 @@ Wanna know more about the things I did? Check out my pinned repositories and do 
 <a href="https://www.codechef.com/users/muskan003" target="_blank"><img src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="iumoinfinuim" width=35px height=35px ></a>
 <a href="https://www.hackerrank.com/profile/cmuskan3840" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width=43px height=43px></a>
 
+[![An image of @muskanchoudhary001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muskanchoudhary001)](https://holopin.io/@muskanchoudhary001)
+
 Feel free to contact me, at [cmuskan3840@gmail.com](mailto:cmuskan3840@gmail.com@gmail.com) to discuss anything :)
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
