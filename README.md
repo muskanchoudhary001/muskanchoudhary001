@@ -49,12 +49,4 @@ Wanna know more about the things I did? Check out my pinned repositories and do 
 
 Feel free to contact me, at [cmuskan3840@gmail.com](mailto:cmuskan3840@gmail.com@gmail.com) to discuss anything :)
 
-[![An image of @muskanchoudhary001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muskanchoudhary001)](https://holopin.io/@muskanchoudhary001)
-
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<img align="center" alt="muskanchoudhary001's  Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muskanchoudhary001&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- ![](https://komarev.com/ghpvc/?username=iumoinfinium) -->
+ 
